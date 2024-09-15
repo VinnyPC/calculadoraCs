@@ -1,0 +1,16 @@
+C:\Users\vinis\source\repos\calculadora3\calculadora3\bin\Debug\net8.0-windows\calculadora3.exe
+C:\Users\vinis\source\repos\calculadora3\calculadora3\bin\Debug\net8.0-windows\calculadora3.deps.json
+C:\Users\vinis\source\repos\calculadora3\calculadora3\bin\Debug\net8.0-windows\calculadora3.runtimeconfig.json
+C:\Users\vinis\source\repos\calculadora3\calculadora3\bin\Debug\net8.0-windows\calculadora3.dll
+C:\Users\vinis\source\repos\calculadora3\calculadora3\bin\Debug\net8.0-windows\calculadora3.pdb
+C:\Users\vinis\source\repos\calculadora3\calculadora3\obj\Debug\net8.0-windows\calculadora3.Form1.resources
+C:\Users\vinis\source\repos\calculadora3\calculadora3\obj\Debug\net8.0-windows\calculadora3.csproj.GenerateResource.cache
+C:\Users\vinis\source\repos\calculadora3\calculadora3\obj\Debug\net8.0-windows\calculadora3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinis\source\repos\calculadora3\calculadora3\obj\Debug\net8.0-windows\calculadora3.AssemblyInfoInputs.cache
+C:\Users\vinis\source\repos\calculadora3\calculadora3\obj\Debug\net8.0-windows\calculadora3.AssemblyInfo.cs
+C:\Users\vinis\source\repos\calculadora3\calculadora3\obj\Debug\net8.0-windows\calculadora3.csproj.CoreCompileInputs.cache
+C:\Users\vinis\source\repos\calculadora3\calculadora3\obj\Debug\net8.0-windows\calculadora3.dll
+C:\Users\vinis\source\repos\calculadora3\calculadora3\obj\Debug\net8.0-windows\refint\calculadora3.dll
+C:\Users\vinis\source\repos\calculadora3\calculadora3\obj\Debug\net8.0-windows\calculadora3.pdb
+C:\Users\vinis\source\repos\calculadora3\calculadora3\obj\Debug\net8.0-windows\calculadora3.genruntimeconfig.cache
+C:\Users\vinis\source\repos\calculadora3\calculadora3\obj\Debug\net8.0-windows\ref\calculadora3.dll
